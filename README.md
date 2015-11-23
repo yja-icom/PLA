@@ -20,25 +20,25 @@ The main feature of this language is to act as a calculator, and determine the r
 Some of the language features are the following:
 
 1. Vector addition and subtraction (Two and three dimensions)
-- Magnitude or length of a vector (Two and three dimensions)
-- Dot product (Two and three dimensions)
-- Cross product (Three dimensions)
-- Angle between two vectors
-- Orthogonality of a vector
-- Scalar product
-- Vector division by scalar
-- Unary operations
-- Determinant
-- Variable assignment
-- Agroupation with assignment
+  - Magnitude or length of a vector (Two and three dimensions)
+  - Dot product (Two and three dimensions)
+  - Cross product (Three dimensions)
+  - Angle between two vectors
+  - Orthogonality of a vector
+  - Scalar product
+  - Vector division by scalar
+  - Unary operations
+  - Determinant
+  - Variable assignment
+  - Agroupation with assignment
 2. Basic arithmetic
-- Addition, subtraction, multiplication, division
+  - Addition, subtraction, multiplication, division
 3. Integration with other environments:
-- Python
+  - Python
 4. Data Structures
-- Vectors
+  - Vectors
 5. Data Types
-- Numeric
+  - Numeric
 
 # Example of Program
 
