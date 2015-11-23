@@ -51,10 +51,10 @@ Some of the language features are the following:
 
 # Example of Program
 
-Vector Addition:\\
-(+_+) > (1,2,1)+(1,1,1)\\
-Result:\\
-(+_+) > (2,3,2)\\
+Vector Addition:  
+(+_+) > (1,2,1)+(1,1,1)  
+Result:  
+(+_+) > (2,3,2)  
 
 Vector Subtraction:\\
 (+_+) > (1,2,0)-(1,1,1)\\
