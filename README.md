@@ -56,72 +56,72 @@ Vector Addition:
 Result:  
 (+_+) > (2,3,2)  
 
-Vector Subtraction:\\
-(+_+) > (1,2,0)-(1,1,1)\\
-Result:\\
-(+_+) > (0,1,-1)\\
+Vector Subtraction:  
+(+_+) > (1,2,0)-(1,1,1)  
+Result:  
+(+_+) > (0,1,-1)  
 
-Dot Product:\\
-(+_+) > (1,2,1)*(1,1,1)\\
-Result:\\
-(+_+) > 4\\
+Dot Product:  
+(+_+) > (1,2,1)*(1,1,1)  
+Result:  
+(+_+) > 4  
 
-Scalar Product:\\
-(+_+) > (1,2,1)*2\\
-Result:\\
-(+_+) > (2,4,2)\\
+Scalar Product:  
+(+_+) > (1,2,1)*2  
+Result:  
+(+_+) > (2,4,2)  
 
-Vector Division by Scalar:\\
-(+_+) > (1,2,1)/2\\
-Result:\\
-(+_+) > (0.5,1.5,0.5)\\
+Vector Division by Scalar:  
+(+_+) > (1,2,1)/2  
+Result:  
+(+_+) > (0.5,1.5,0.5)  
 
-Unary Operators\\
-Operator +:\\
-(+_+) > + (1,2,1)\\
-Result:\\
-(+_+) > (1,2,1)\\
+Unary Operators  
+Operator +:  
+(+_+) > + (1,2,1)  
+Result:  
+(+_+) > (1,2,1)  
 
-Operator -:\\
-(+_+) > -(1,2,-1)\\
-Result:\\
-(+_+) > (-1,-2,1)\\
+Operator -:  
+(+_+) > -(1,2,-1)  
+Result:  
+(+_+) > (-1,-2,1)  
 
-Norm of a vector:\\
-(+_+) > norm((1,1,1))\\
-Result:\\
-(+_+) > 1.73\\
+Norm of a vector:  
+(+_+) > norm((1,1,1))  
+Result:  
+(+_+) > 1.73  
 
-Perpendicular vectors:\\
-(+_+) > isper((1,2,1),(1,0,1))\\
-Result:\\
-(+_+) > false\\
+Perpendicular vectors:  
+(+_+) > isper((1,2,1),(1,0,1))  
+Result:  
+(+_+) > false  
 
-Assignation:\\
-(+_+) > x=(1,2,1)\\
-(+_+) > x\\
-Result:\\
-(+_+) > (1,2,1)\\
+Assignation:  
+(+_+) > x=(1,2,1)  
+(+_+) > x  
+Result:  
+(+_+) > (1,2,1)  
 
-Agrupation:\\
-(+_+) > ((1,2,1)+(1,1,1))-(2,2,2)\\
-Result:\\
-(+_+) > (0,1,0)\\
+Agrupation:  
+(+_+) > ((1,2,1)+(1,1,1))-(2,2,2)  
+Result:  
+(+_+) > (0,1,0)  
 
-Agrupation with assignation:\\
-(+_+) > x=(1,2,1)\\
-(+_+) > y=(1,1,1)\\
-(+_+) > z=(2,2,2)\\
-(+_+) > (x+y)-z\\
-Resultado:\\
-(+_+) > (0,1,0)\\
+Agrupation with assignation:  
+(+_+) > x=(1,2,1)  
+(+_+) > y=(1,1,1)  
+(+_+) > z=(2,2,2)  
+(+_+) > (x+y)-z  
+Resultado:  
+(+_+) > (0,1,0)  
 
-Cross product:\\
-(+_+) > x=(1,2,3)\\
-(+_+) > y=(-1,1,2)\\
-(+_+) > cruz(x,y)\\
-Result:\\
-(+_+) > (1.0,-5.0,3.0)\\
+Cross product:  
+(+_+) > x=(1,2,3)  
+(+_+) > y=(-1,1,2)  
+(+_+) > cruz(x,y)  
+Result:  
+(+_+) > (1.0,-5.0,3.0)  
 
 # Software Requirements and Specifications
 
