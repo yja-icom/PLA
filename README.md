@@ -129,4 +129,4 @@ to run in any operating system that supports Python i.e. Windows, OS X, Linux, e
 
 A continuación se encuentran una serie de enlaces a videos que muestran las funcionalidades de la calculadora vectorial
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/EKoxLxzWNOk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7CI66sy1ZFk/0.jpg)](http://www.youtube.com/watch?v=7CI66sy1ZFk)
