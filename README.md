@@ -129,5 +129,33 @@ to run in any operating system that supports Python i.e. Windows, OS X, Linux, e
 
 A continuación se encuentran una serie de enlaces a videos que muestran las funcionalidades de la calculadora vectorial
 
+### Introducción
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7CI66sy1ZFk/0.jpg)](http://www.youtube.com/watch?v=7CI66sy1ZFk)
+
+### Suma de vectores
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2HQ0FBZo518/0.jpg)](http://www.youtube.com/watch?v=2HQ0FBZo518)
+
+### Resta de vectores
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rgx2gho0Xf8/0.jpg)](http://www.youtube.com/watch?v=rgx2gho0Xf8)
+
+### Multiplicación escalar
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aDYFygPdoBE/0.jpg)](http://www.youtube.com/watch?v=aDYFygPdoBE)
+
+### División escalar
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-ex0wLioUdA/0.jpg)](http://www.youtube.com/watch?v=-ex0wLioUdA)
+
+### Norma de un vector
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SrVf2R34_CY/0.jpg)](http://www.youtube.com/watch?v=SrVf2R34_CY)
+
+### Perpendicularidad entre vectores
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1scerenvAvQ/0.jpg)](http://www.youtube.com/watch?v=1scerenvAvQ)
+
+### Angulo entre vectores
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/deDWeQzwozI/0.jpg)](http://www.youtube.com/watch?v=deDWeQzwozI)
+
+### Producto punto entre vectores
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/kKB9_7stUHE/0.jpg)](http://www.youtube.com/watch?v=kKB9_7stUHE)
+
+### Producto cruz entre vectores de 3D
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jDJi33cAZpM/0.jpg)](http://www.youtube.com/watch?v=jDJi33cAZpM)
