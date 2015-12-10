@@ -130,32 +130,31 @@ to run in any operating system that supports Python i.e. Windows, OS X, Linux, e
 A continuación se encuentran una serie de enlaces a videos que muestran las funcionalidades de la calculadora vectorial
 
 ### Introducción
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7CI66sy1ZFk/0.jpg)](http://www.youtube.com/watch?v=7CI66sy1ZFk)
+https://drive.google.com/file/d/0B_k5dIkaEXVsNlFETWlGYU5Pbzg/view?usp=sharing
 
 ### Suma de vectores
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2HQ0FBZo518/0.jpg)](http://www.youtube.com/watch?v=2HQ0FBZo518)
+https://drive.google.com/open?id=0B_k5dIkaEXVsbU5rbTdIZkJvZ28
 
 ### Resta de vectores
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rgx2gho0Xf8/0.jpg)](http://www.youtube.com/watch?v=rgx2gho0Xf8)
+https://drive.google.com/open?id=0B_k5dIkaEXVsYjBQNEJMSmNTWU0
 
 ### Multiplicación escalar
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/aDYFygPdoBE/0.jpg)](http://www.youtube.com/watch?v=aDYFygPdoBE)
+https://drive.google.com/open?id=0B_k5dIkaEXVsc1lKbXNvb3haZEk
 
 ### División escalar
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-ex0wLioUdA/0.jpg)](http://www.youtube.com/watch?v=-ex0wLioUdA)
+https://drive.google.com/open?id=0B_k5dIkaEXVscjJjblhWVnQxd0k
 
 ### Norma de un vector
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SrVf2R34_CY/0.jpg)](http://www.youtube.com/watch?v=SrVf2R34_CY)
+https://drive.google.com/open?id=0B_k5dIkaEXVsbmNhY2FTZDE4aTQ
 
 ### Perpendicularidad entre vectores
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1scerenvAvQ/0.jpg)](http://www.youtube.com/watch?v=1scerenvAvQ)
+https://drive.google.com/open?id=0B_k5dIkaEXVsT21YSVdkZkRScVU
 
 ### Angulo entre vectores
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/deDWeQzwozI/0.jpg)](http://www.youtube.com/watch?v=deDWeQzwozI)
+https://drive.google.com/open?id=0B_k5dIkaEXVsN21uRllIaFo0R0E
 
 ### Producto punto entre vectores
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/kKB9_7stUHE/0.jpg)](http://www.youtube.com/watch?v=kKB9_7stUHE)
+https://drive.google.com/open?id=0B_k5dIkaEXVsZDZrM1lxOGN6UDA
 
 ### Producto cruz entre vectores de 3D
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jDJi33cAZpM/0.jpg)](http://www.youtube.com/watch?v=jDJi33cAZpM)
+https://drive.google.com/open?id=0B_k5dIkaEXVscEFHUEljUVpEelE
