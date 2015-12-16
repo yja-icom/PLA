@@ -1,1 +1,0 @@
-En el siguiente link se encuentra un documento pdf donde esta desarollada la tercera fase del proyecto. Lo puede encontrar <a href="https://drive.google.com/a/upr.edu/file/d/0B7-MbyzGLyjESE9CeHllM09LWGc/view">aqui</a>.
