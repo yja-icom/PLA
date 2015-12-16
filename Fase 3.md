@@ -1,4 +1,5 @@
-Introduction:
+<b>Introduction:</b>
+
 PLA, A Programming Language for Linear Algebra, es un lenguaje de programación que se centra en resolver los problemas primordiales o básicos del tema de álgebra lineal. Esta herramienta desarrollada durante el semestre actúa primordialmente como una calculadora que soluciona diferentes operaciones relacionadas a vectores. Es importante mencionar que PLA resuelve operaciones para vectores de tres dimensiones y dos dimensiones. Algunas de las funciones implementadas (que se verán más a fondo según continue el documento) son suma y resta de vectores, producto cruz, norma, angulo entre dos vectores, etc. 
 El propósito principal de este lenguaje es que sirva de guía para aquellas personas que estén comenzando a aprender algebra lineal. Que este lenguaje sea como una calculadora donde puedan rápidamente verificar alguna respuesta o calcular un dato sencillo. Por ende, en este documento se presenta un tutorial del lenguaje donde el usuario puede observar cómo puede comenzar a utilizarlo. Adicionalmente, se encuentra un manual de referencia, y otra parte donde se explica cómo se desarrolló el lenguaje. Finalmente, en la conclusión recapitulamos sobre la propuesta sometida en la primera fase. Se discutirá que se implementó y que no, si se tuvieron que hacer algunos cambios a lo largo del semestre, entre otros. 
 
