@@ -1,83 +1,84 @@
 <b>Introduction:</b>
 
 PLA, A Programming Language for Linear Algebra, es un lenguaje de programación que se centra en resolver los problemas primordiales o básicos del tema de álgebra lineal. Esta herramienta desarrollada durante el semestre actúa primordialmente como una calculadora que soluciona diferentes operaciones relacionadas a vectores. Es importante mencionar que PLA resuelve operaciones para vectores de tres dimensiones y dos dimensiones. Algunas de las funciones implementadas (que se verán más a fondo según continue el documento) son suma y resta de vectores, producto cruz, norma, angulo entre dos vectores, etc. 
+<br>
 El propósito principal de este lenguaje es que sirva de guía para aquellas personas que estén comenzando a aprender algebra lineal. Que este lenguaje sea como una calculadora donde puedan rápidamente verificar alguna respuesta o calcular un dato sencillo. Por ende, en este documento se presenta un tutorial del lenguaje donde el usuario puede observar cómo puede comenzar a utilizarlo. Adicionalmente, se encuentra un manual de referencia, y otra parte donde se explica cómo se desarrolló el lenguaje. Finalmente, en la conclusión recapitulamos sobre la propuesta sometida en la primera fase. Se discutirá que se implementó y que no, si se tuvieron que hacer algunos cambios a lo largo del semestre, entre otros. 
 
-Language tutorial:
+<b>Language tutorial:</b>
 
-Modo interactivo
+<b>Modo interactivo</b>
 Se dice que estamos usando el intérprete en modo interactivo, cuando los comandos son leídos desde una terminal. Se espera el siguiente comando después de los signos: paréntesis que abre-adición-guión bajo-adición-paréntesis que cierra- mayor que (+_+) >
 
-Números
+<b>Números</b>
 El intérprete actúa como una simple calculadora; podés ingresar una expresión y éste escribirá los valores. La sintaxis es sencilla: existen los operadores +, -, * ,/  .  Además, los paréntesis pueden ser usados para agrupar. Por ejemplo:
-(+_+) > 1+1
+<b>(+_+) > 1+1
 2.0
 (+_+) > 32-11
 31.0
 (+_+) > (1-2)-4
--5.0
+-5.0</b>
 
 El signo igual (=) es usado para asignar un valor a una variable. Luego, ningún resultado es mostrado antes del próximo prompt:
-(+_+) > x=2
+<b>(+_+) > x=2
 (+_+) >x
-2.0
+2.0</b>
 
 El programa soporta completamente los números de punto flotante; las operaciones con mezclas en los tipos de los operandos convierten los enteros a punto flotante:
-(+_+) > 3.0 -4
--1.0
+<b>(+_+) > 3.0 -4
+-1.0</b>
 
-Vectores 2d y 3d
+<b>Vectores 2d y 3d</b>
 Al igual que con los números, el intérprete también actúa como calculadora para vectores de 2 y 3 dimensiones. podés ingresar una expresión y éste escribirá los valores. La sintaxis es sencilla: existen los operadores +, -, * ,/  .  Además, los paréntesis pueden ser usados para agrupar.  Por ejemplo:
-(+_+) > (1,1)
+<b>(+_+) > (1,1)
 (1.0,1.0)
 (+_+) > (-1,-2.7,2.3)
 (-1.0,-2.7,-2.3)
 (+_+) > (1,1,1)+(1,3,4)
 (2.0,4.0,5.0)
 (+_+) > ((1,1,1)+(1,3,4))-(1,1,1)
-(1.0,3.0,4.0)
+(1.0,3.0,4.0)</b>
 
 El signo igual (=) también es usado para asignar un valor a una variable. Luego, ningún resultado es mostrado antes del próximo prompt:
-(+_+) > x=(1,4,5)
+<b>(+_+) > x=(1,4,5)
 (+_+) > x
-(1.0,4.0,5.0)
+(1.0,4.0,5.0)</b>
 
-Norma de un vector
+<b>Norma de un vector</b>
 Para hallar la norma de un vector se usa la palabra reservada norma.
-(+_+) > norma((1,1))
+<b>(+_+) > norma((1,1))
 1.4142
 (+_+) > norma((1,2,3))
-3.7416
+3.7416</b>
 
-Perpendicularidad de un vector
+<b>Perpendicularidad de un vector</b>
 Para saber si dos vectores son vectores usamos el comando isper. Si son los dos vectores perpendiculares retorna True y si no False
-(+_+) > isper((1,0),(0,1))
+<b>(+_+) > isper((1,0),(0,1))
 True
 (+_+) > isper((1,0,9),(0,1,7))
-False
+False</b>
 
-Angulo entre vectores
+<b>Angulo entre vectores</b>
 Para hallar el ángulo entre dos vectores se usa el comando angulo. Devuelve el resultado en grados.
-(+_+) > angulo((1,3),(2,5))
+<b>(+_+) > angulo((1,3),(2,5))
 3.36
 (+_+) > angulo((-1,3,4),(2,5,7))
-24.43
+24.43</b>
 
-Determinante de vectores 2d
+<b>Determinante de vectores 2d</b>
 Para hallar el determinante de dos vectores se usa el comando det. 
-(+_+) > det((1,4),(-4,6))
-22.0
+<b>(+_+) > det((1,4),(-4,6))
+22.0</b>
 
 Para tres dimensiones no se ha implementado.
 
-Producto Cruz
+<b>Producto Cruz</b>
 Para hallar el producto cruz de dos vectores de tres dimensiones se utiliza en el comando cruz.
-(+_+) > cruz((2,5,7),(-9,4,9))
-(17.0,-81.0,53.0)
+<b>(+_+) > cruz((2,5,7),(-9,4,9))
+(17.0,-81.0,53.0)</b>
 
-Coordenada de un vector
+<b>Coordenada de un vector</b>
 Se utiliza la siguiente sintaxis
-(+_+) > x=(1,23)
+<b>(+_+) > x=(1,23)
 (+_+) > (1,23)[1]
 1.0
 (+_+) > (1,23)[2]
@@ -85,9 +86,9 @@ Se utiliza la siguiente sintaxis
 (+_+) > x[1]
 1.0
 (+_+) > x[2]
-23.0
+23.0</b>
 
-Language reference manual:
+<b>Language reference manual:</b>
 
 Operadores: (donde a y b son números)
 a + b
